@@ -18,7 +18,7 @@
 - Bunu nerede kullanabiliriz. Yazdığımız bir sistemi otomatize ederken kullanabiliriz.
 - Linux demek otomatize etmek demektir.
 
--yazdığımız kodun içerisinde değişiklikler yaparak meseleyi açıyoruz. Programın istediğimiz gibi
+- yazdığımız kodun içerisinde değişiklikler yaparak meseleyi açıyoruz. Programın istediğimiz gibi
     çalışmaması durumunda istediğimiz hata code larını return edebiliyoruz. Http deki gibi bir
     standartı olmasada, kabul gören belli değerler bulunmakta.
-    
+
