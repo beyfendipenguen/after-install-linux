@@ -22,3 +22,4 @@
     çalışmaması durumunda istediğimiz hata code larını return edebiliyoruz. Http deki gibi bir
     standartı olmasada, kabul gören belli değerler bulunmakta.
 
+- linux içerisinde herşey bir dosyadır. 

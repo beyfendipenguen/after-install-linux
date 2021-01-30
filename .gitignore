@@ -2,6 +2,10 @@
 # Prerequisites
 *.d
 
+# videolar
+*.mp4
+*.mkv
+
 # Object files
 *.o
 *.ko
@@ -10,15 +14,12 @@
 
 # Linker output
 *.ilk
-*.map
+*.ma p
 *.exp
 
 # Precompiled Headers
 *.gch
-*.pch
-
-# Libraries
-*.lib
+*.pc b
 *.a
 *.la
 *.lo
@@ -39,13 +40,7 @@
 
 # Debug files
 *.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
+*.su 
 .tmp_versions/
 modules.order
 Module.symvers
